@@ -1,5 +1,6 @@
+<br/>
 # GIT :rainbow: 
-<br/> <br/>
+<br/> 
 ## Branch  :evergreen_tree:
 
 Create branch from another branch
