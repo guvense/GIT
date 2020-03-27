@@ -5,19 +5,19 @@
 - Create branch from another branch
 
 git checkout < Branch-Name-Base >  
-git checkout -b < Branch-Name-Sub > < Branch-Name-Base > | < Tag-Name >
+git checkout -b < Branch-Name-Sub > < Branch-Name-Base > | < Tag-Name >  
 
 - Delete branch
-git branch -d < Branch-Name > | -D (force)
+git branch -d < Branch-Name > | -D (force)  
 
 - Undo Last Commit 
-git reset --soft HEAD^
+git reset --soft HEAD^  
 
 ## Cherry Pick
-git cherry-pick < Commit-Id >
-git cherry-pick --continue
-git cherry-pick --quit
-git cherry-pick --abort
+git cherry-pick < Commit-Id >  
+git cherry-pick --continue  
+git cherry-pick --quit  
+git cherry-pick --abort  
 
 Use "-n" flag without commit
 git cherry-pick -n  < Commit-Id >
