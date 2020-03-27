@@ -7,8 +7,8 @@ Create branch from another branch
 - git checkout < Branch-Name-Base >  
 - git checkout -b < Branch-Name-Sub > < Branch-Name-Base > | < Tag-Name >  
 
-Delete branch
-git branch -d < Branch-Name > | -D (force)  
+Delete branch  
+- git branch -d < Branch-Name > | -D (force)  
 
 Undo Last Commit 
 - git reset --soft HEAD^  
