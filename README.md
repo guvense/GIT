@@ -1,6 +1,6 @@
-# GIT :fountain:
+# GIT :rainbow:
 
-## Branch
+## Branch  :evergreen_tree:
 
 Create branch from another branch
 
