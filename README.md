@@ -22,12 +22,12 @@ Undo Last Commit
 Use "-n" flag without commit
 - git cherry-pick -n  < Commit-Id >
 
-## Patch
+## Patch  :jeans:
 - git diff > < Patch-Name >
 - git add.
 - git diff -p --staged >  < Patch-Name >
 
-## Stash
+## Stash  :briefcase:
 - git stash save "< Stash-Name >"
 - git stash apply ...
 - git stash list
