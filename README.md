@@ -13,7 +13,7 @@ Delete branch
 Undo Last Commit 
 - git reset --soft HEAD^  
 
-## Cherry Pick
+## Cherry Pick  :cherries:
 - git cherry-pick < Commit-Id >  
 - git cherry-pick --continue  
 - git cherry-pick --quit  
