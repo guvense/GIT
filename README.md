@@ -29,12 +29,12 @@ Use "-n" flag without commit
 - *git diff -p --staged >  < Patch-Name >*
 
 ## Stash  :briefcase:
-- **git stash save "< Stash-Name >"**
-- **git stash apply ...**
-- **git stash list**
-- **git stash save "..." --include-untracked**
-- **git stash push -m "name" ...**
-- **git stash drop ..**
+- *git stash save "< Stash-Name >"*
+- *git stash apply ...*
+- *git stash list*
+- *git stash save "..." --include-untracked*
+- *git stash push -m "name" ...*
+- *git stash drop ..*
 
 Delete untracked all  
-- **git clean -f -d**
+- *git clean -f -d*
