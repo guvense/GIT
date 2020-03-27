@@ -4,7 +4,7 @@
 
 - Create branch from another branch
 
-git checkout <Branch-Name-Base>
+git checkout < Branch-Name-Base >
 git checkout -b <Branch-Name-Sub> <Branch-Name-Base> | <Tag-Name>
 
 - Delete branch
