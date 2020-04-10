@@ -36,5 +36,10 @@ Use "-n" flag without commit
 - *git stash push -m "name" ...*
 - *git stash drop ..*
 
-Delete untracked all  
-- *git clean -f -d*
+
+## Merge Commit  :punch:
+Merge master branch  
+- *git checkout master*
+- *git pull*
+- *git checkout < Your-Branch >*
+- *git merge master*
