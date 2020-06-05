@@ -43,3 +43,11 @@ Merge master branch
 - *git pull*
 - *git checkout < Your-Branch >*
 - *git merge master*
+
+## Revert  :bike:
+Revert commit   
+- *git revert <commit-hash> *
+  if conflict -> solve -> then
+- *git revent --continue*
+- *git push*
+
