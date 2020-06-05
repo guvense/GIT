@@ -49,6 +49,6 @@ Revert commit
 - *git revert <commit-hash> *
   
   if conflict -> solve -> then
-- *git revent --continue*
+- *git revert --continue*
 - *git push*
 
