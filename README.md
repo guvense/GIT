@@ -47,6 +47,7 @@ Merge master branch
 ## Revert  :bike:
 Revert commit   
 - *git revert <commit-hash> *
+  
   if conflict -> solve -> then
 - *git revent --continue*
 - *git push*
